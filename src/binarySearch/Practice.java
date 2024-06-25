@@ -44,7 +44,8 @@ public class Practice {
                 right = mid - 1;
             }
         }
-
+        return answer;
+    }
 }
 
 class Test {
